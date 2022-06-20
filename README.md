@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm james85dev</h1>
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">Vue.js, PHP Laravel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=james85dev&label=Profile%20views&color=0e75b6&style=flat" alt="james85dev" /> </p>
 
-- 🌱 I’m currently learning **vue.js, PHP Laravel**
-
 - 💬 Ask me about **vue.js, PHP Laravel**
 
-- 📫 How to reach me **coffeyjames85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
